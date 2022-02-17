@@ -21,8 +21,8 @@
   This product uses a MIT license
 
   ## Demo
-  <img src="assets/ezgif.com-gif-maker1.gif">
-  <img src="assets/ezgif.com-gif-maker2.gif">
+  <img src="src/assets/ezgif.com-gif-maker1.gif">
+  <img src="src/assets/ezgif.com-gif-maker2.gif">
 
   ## Questions
   For additional questions feel free to contact: chrischo2012@gmail.com
