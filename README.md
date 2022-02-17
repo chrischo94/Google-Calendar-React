@@ -4,12 +4,15 @@
   First Interview
 
   ## Table of Contents
+  * [Demo](#demo)
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Demo](#demo)
   * [Questions](#questions)
 
+  ## Demo
+  <img src="src/assets/ezgif.com-gif-maker1.gif">
+  <img src="src/assets/ezgif.com-gif-maker2.gif">
   
   ## Installation
   Run npm i in the terminal. Then run npm start.
@@ -19,10 +22,6 @@
 
   ## License
   This product uses a MIT license
-
-  ## Demo
-  <img src="src/assets/ezgif.com-gif-maker1.gif">
-  <img src="src/assets/ezgif.com-gif-maker2.gif">
 
   ## Questions
   For additional questions feel free to contact: chrischo2012@gmail.com
